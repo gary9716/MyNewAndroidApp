@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         Log.d("test", "log");
         Log.d("test", "log2");
+        Log.d("test", "log3");
     }
 }
